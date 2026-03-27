@@ -1,0 +1,4 @@
+0 Objeto cortopunzante
+1 Humo
+2 Arma de fuego
+3 Objeto contundente
